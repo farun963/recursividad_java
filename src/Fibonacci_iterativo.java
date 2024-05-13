@@ -1,3 +1,5 @@
+// Integrantes: Gerardo Vicente y Reynaldo Nequi
+
 public class Fibonacci_iterativo {
 
     // Método para calcular el número de Fibonacci de manera iterativa
