@@ -18,7 +18,7 @@ public class Fibonacci_iterativo {
 
     // Método principal para probar la implementación iterativa
     public static void main(String[] args) {
-        int n = 10; // El número de Fibonacci que queremos calcular
+        int n = 11; // El número de Fibonacci que queremos calcular
         int resultado = fibonacciIterativo(n);
         System.out.println("El número de Fibonacci en la posición " + n + " es: " + resultado);
     }

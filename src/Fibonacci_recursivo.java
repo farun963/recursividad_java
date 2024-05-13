@@ -9,7 +9,7 @@ public class Fibonacci_recursivo {
 
     // Método principal para probar la implementación recursiva
     public static void main(String[] args) {
-        int n = 10; // El número de Fibonacci que queremos calcular
+        int n = 11; // El número de Fibonacci que queremos calcular
         int resultado = fibonacciRecursivo(n);
         System.out.println("El número de Fibonacci en la posición " + n + " es: " + resultado);
     }
